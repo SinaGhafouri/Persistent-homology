@@ -1,0 +1,6 @@
+You can create your point cloud in 2D space by your mouse and see the corresponding persistent diagram in real time.
+
+Instruction:
+Left click to put a dot.
+Right click to remove dots within certain range: dx units.
+Middle click to clear.
